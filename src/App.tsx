@@ -9,7 +9,7 @@ const AppContent: React.FC = () => {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-slate-950/60 backdrop-blur-sm flex flex-col items-center justify-center text-white p-4">
+      <div className="min-h-screen bg-slate-950/30 flex flex-col items-center justify-center text-white p-4">
         <div className="relative mb-5 animate-pulse">
           <img 
             src="/logo.png?v=2" 

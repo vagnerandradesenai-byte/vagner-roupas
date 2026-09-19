@@ -7,12 +7,12 @@
   
   body {
     @apply text-slate-100 font-sans antialiased selection:bg-indigo-500/30 selection:text-indigo-200 min-h-screen relative;
-    background-image: url('/background.png?v=1');
+    background-color: #38bdf8;
+    background-image: url('/background.jpg?v=5');
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-color: #070b14;
   }
 }
 
